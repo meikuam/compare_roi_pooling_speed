@@ -1,3 +1,5 @@
+the rois are defined as [roi_id , left_coord , top_coord, right_coord, bot_coord] = [ roi_id , x1, y1 , x2, y2 ]
+
 Environment:
 
 nvidia 1080Ti, cuda 8.0, cudnn 6.0, pytorch 0.2.0
